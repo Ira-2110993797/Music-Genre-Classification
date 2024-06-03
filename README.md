@@ -1,7 +1,7 @@
 # Music-Genre-Classification
 
 
-![Music]("/Users/iragarg/Downloads/mgc.png")
+![Music](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40aritrachowdhury95%2Fmusic-genre-classification-using-deep-learning-audio-and-video-770173980104&psig=AOvVaw1S_2jJU9cT4Ftwn2kGqcgh&ust=1717516515912000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOix-OHlv4YDFQAAAAAdAAAAABAE))
 
 
 
