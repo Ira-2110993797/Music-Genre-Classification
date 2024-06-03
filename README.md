@@ -1,7 +1,7 @@
 # Music-Genre-Classification
 
 
-             ![Music](Assets/mgc.png)
+![Music](Assets/mgc.png)
 
 
 
