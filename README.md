@@ -1,7 +1,7 @@
 # Music-Genre-Classification
 
 
-![Uploading image.png…]()
+![Music]("/Users/iragarg/Downloads/mgc.png")
 
 
 
