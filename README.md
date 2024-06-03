@@ -29,3 +29,7 @@ The genres I am classifying are:
 10. rock
 
 Link for dataset: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+
+
+
+![Music Genres](Assets/mg.jpeg)
