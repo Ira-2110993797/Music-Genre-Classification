@@ -1,9 +1,7 @@
 # Music-Genre-Classification
 
 
-<p align="center">
-<img src="/Users/iragarg/Downloads/mgc.png" width="250">
-</p>
+! [Music](Assets/mgc.png)
 
 
 
