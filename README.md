@@ -6,7 +6,9 @@
 
 
 # Overview
-Music genre classification is the task of automatically assigning a genre label to a piece of music. It plays a crucial role in various applications such as music recommendation systems, music search engines, and personalized playlists.
+Music genre classification is a complex and fascinating task within the field of music information retrieval (MIR). It involves the automated categorization of music tracks into genres based on their audio features. This process leverages various techniques in machine learning and deep learning to analyze attributes such as tempo, rhythm, pitch, and timbre. Accurate genre classification can enhance music recommendation systems, improve user experience in music streaming services, and aid in organizing large music libraries.
+
+The primary challenge in this domain is the diversity and variability in music, which includes differences in recording quality, instrumentation, and production styles. Additionally, obtaining a comprehensive and diverse dataset is crucial for training robust models. This project utilizes the Million Song Dataset (MSD), a large-scale collection of audio features and metadata for a million contemporary popular music tracks. By leveraging advanced machine learning algorithms and the MSD, this project aims to develop a reliable music genre classification system, addressing both the challenges of data acquisition and the complexity of musical diversity. Detailed documentation and scripts are provided to facilitate replication and further exploration.
 
 
 
